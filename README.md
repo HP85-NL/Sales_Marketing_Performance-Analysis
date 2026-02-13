@@ -10,7 +10,7 @@
 AtliQ Hardware's departments operated in silos with disconnected Excel files, creating three critical problems:
 
 1. **No Single Source of Truth:** Sales and Finance teams reported conflicting numbers, eroding stakeholder confidence
-2. **Manual Inefficiency:** 14+ hours spent monthly consolidating data across departments
+2. **Manual Inefficiency:** 12+ hours spent monthly consolidating data across departments
 3. **Revenue Risk:** Sales team spent 30+ minutes per discount approval with no margin safeguards, risking 3% margin leakage
 
 **My Role:** Jr. Business & Data Analyst, responsible for requirements gathering, data modeling, report design, and stakeholder alignment.
