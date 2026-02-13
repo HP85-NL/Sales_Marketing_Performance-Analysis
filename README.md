@@ -1,6 +1,6 @@
 # Excel Business Intelligence: Sales & Finance Reporting Pack
 
-**Portfolio Impact Statement:**  Transformed fragmented Excel reporting across Sales, Finance, and Marketing into a unified, automated reporting system—cutting manual reporting time by 83% (from 12 hours to 2 hours monthly) and preventing $180K+ annual margin leakage through intelligent discount governance.
+**Portfolio Impact Statement:**  Transformed fragmented Excel reporting across Sales, Finance, and Marketing into a unified, automated reporting system—cutting manual reporting time by 83% (from 12 hours to 2 hours monthly) and preventing $180K+ 3% annual margin leakage through intelligent discount governance.
 
  > **Portfolio-safe note:** Customer names are anonymised in shared materials.
 
