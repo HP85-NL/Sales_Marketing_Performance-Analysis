@@ -23,7 +23,7 @@ AtliQ Hardware's departments operated in silos with disconnected Excel files, cr
 
 | Metric | Before | After | Impact |
 | :--- | :--- | :--- | :--- |
-| **Monthly Reporting Time** | 14 hours | 2 hours | 📉 **83% reduction** |
+| **Monthly Reporting Time** | 12 hours | 2 hours | 📉 **83% reduction** |
 | **Discount Approval Time** | 30 minutes | 5 minutes | ⚡ **83% faster** |
 | **Data Reconciliation Issues** | 8-12 per month | 0 | ✅ **100% elimination** |
 | **Margin Protection** | At risk | Automated governance | 💰 **3% margin leakage prevented** (~$180K annually) |
